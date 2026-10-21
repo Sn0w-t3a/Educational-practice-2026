@@ -16,4 +16,4 @@
 ```bash
 git clone https://github.com/Sn0w-t3a/Educational-practice-2026.git
 cd Matrix-sum
-npm install```
+npm install
