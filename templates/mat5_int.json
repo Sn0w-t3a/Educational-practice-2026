@@ -1,0 +1,11 @@
+{
+  "version": 1,
+  "name": "mat5_int",
+  "n": 5,
+  "kind": "int",
+  "lo": -9,
+  "hi": 9,
+  "seed": 42,
+  "created": "2026-10-28T10:00:00",
+  "hash": "sha256:..."
+}
